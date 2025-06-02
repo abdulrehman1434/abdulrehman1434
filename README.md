@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @abdulrehman1434
-- 👀 I’m interested in to make an website with laravel.
-- 🌱 I’m currently learning MERN Stack.
-- 💞️ I’m looking to collaborate on laravel for help and tips and other things that might help.
-- 📫 How to reach me arehman9863@gmail.com feel free to message me.
+👋 Hi, I’m @abdulrehman1434
+👨‍💻 I’m currently working on MERN Stack development.
+🌱 I’m learning advanced concepts in React, Node.js, and MongoDB.
+💬 I’m open to collaborate on MERN projects, share tips, and learn together.
+📫 Reach me at arehman9863@gmail.com – feel free to connect!
