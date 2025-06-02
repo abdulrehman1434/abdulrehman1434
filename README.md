@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abdulrehman1434
 - 👀 I’m interested in to make an website with laravel.
-- 🌱 I’m currently learning laravel.
+- 🌱 I’m currently learning MERN Stack.
 - 💞️ I’m looking to collaborate on laravel for help and tips and other things that might help.
 - 📫 How to reach me arehman9863@gmail.com feel free to message me.
